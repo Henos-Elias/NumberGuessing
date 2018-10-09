@@ -35,12 +35,12 @@ public class NumberGuessing {
                 }
 
                 else if(guess < number){
-        System.out.println("Number is to low, tray again");
+        System.out.println("Number is too low, try again");
 
         }
 
         else if(guess > number){
-        System.out.println("Number is to high, try again");
+        System.out.println("Number is too high, try again");
 
         }
 
