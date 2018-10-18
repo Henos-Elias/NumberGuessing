@@ -50,6 +50,6 @@ public class NumberGuessing {
         System.out.println("It took you "+ tries + " tries.");
 
         System.out.println("would you like to play again(yes or no)?");
-        again = keyboard.next();
+        
         }
         }
